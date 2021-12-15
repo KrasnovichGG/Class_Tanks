@@ -1,0 +1,16 @@
+C:\Users\praktikant\Downloads\Class_Tanks-master\Class_Tanks-master\Class_Tanks\bin\Debug\net5.0\Class_Tanks.exe
+C:\Users\praktikant\Downloads\Class_Tanks-master\Class_Tanks-master\Class_Tanks\bin\Debug\net5.0\Class_Tanks.deps.json
+C:\Users\praktikant\Downloads\Class_Tanks-master\Class_Tanks-master\Class_Tanks\bin\Debug\net5.0\Class_Tanks.runtimeconfig.json
+C:\Users\praktikant\Downloads\Class_Tanks-master\Class_Tanks-master\Class_Tanks\bin\Debug\net5.0\Class_Tanks.runtimeconfig.dev.json
+C:\Users\praktikant\Downloads\Class_Tanks-master\Class_Tanks-master\Class_Tanks\bin\Debug\net5.0\Class_Tanks.dll
+C:\Users\praktikant\Downloads\Class_Tanks-master\Class_Tanks-master\Class_Tanks\bin\Debug\net5.0\ref\Class_Tanks.dll
+C:\Users\praktikant\Downloads\Class_Tanks-master\Class_Tanks-master\Class_Tanks\bin\Debug\net5.0\Class_Tanks.pdb
+C:\Users\praktikant\Downloads\Class_Tanks-master\Class_Tanks-master\Class_Tanks\obj\Debug\net5.0\Class_Tanks.csproj.AssemblyReference.cache
+C:\Users\praktikant\Downloads\Class_Tanks-master\Class_Tanks-master\Class_Tanks\obj\Debug\net5.0\Class_Tanks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\praktikant\Downloads\Class_Tanks-master\Class_Tanks-master\Class_Tanks\obj\Debug\net5.0\Class_Tanks.AssemblyInfoInputs.cache
+C:\Users\praktikant\Downloads\Class_Tanks-master\Class_Tanks-master\Class_Tanks\obj\Debug\net5.0\Class_Tanks.AssemblyInfo.cs
+C:\Users\praktikant\Downloads\Class_Tanks-master\Class_Tanks-master\Class_Tanks\obj\Debug\net5.0\Class_Tanks.csproj.CoreCompileInputs.cache
+C:\Users\praktikant\Downloads\Class_Tanks-master\Class_Tanks-master\Class_Tanks\obj\Debug\net5.0\Class_Tanks.dll
+C:\Users\praktikant\Downloads\Class_Tanks-master\Class_Tanks-master\Class_Tanks\obj\Debug\net5.0\ref\Class_Tanks.dll
+C:\Users\praktikant\Downloads\Class_Tanks-master\Class_Tanks-master\Class_Tanks\obj\Debug\net5.0\Class_Tanks.pdb
+C:\Users\praktikant\Downloads\Class_Tanks-master\Class_Tanks-master\Class_Tanks\obj\Debug\net5.0\Class_Tanks.genruntimeconfig.cache

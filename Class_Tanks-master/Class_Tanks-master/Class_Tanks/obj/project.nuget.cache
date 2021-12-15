@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "P6l9qftUFzAQlFoa0m1ja0qyC/vjSwfR0vK3QvymRFghWc1fQk7VRTx5VkOqyiWdfiR79uACxKQcAuxXiwYn9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\praktikant\\Downloads\\Class_Tanks-master\\Class_Tanks-master\\Class_Tanks\\Class_Tanks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\praktikant\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\praktikant\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\praktikant\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\praktikant\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
